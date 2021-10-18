@@ -2,7 +2,7 @@ def name_find(text, names):
     """Find the first occurrence of a character in a book.
     text: The full text of a book. Should be a list of strings,
           each string representing a line of text in the book.
-    names: A list of characer names to search for.
+    names: A list of character names to search for.
 
     Returns a (name, line) tuple where "name" is the earliest-
     occurring character name, and "line" is the line number
